@@ -1,0 +1,10 @@
+streamlit==1.32.1
+cloudpickle @ file:///home/conda/feedstock_root/build_artifacts/cloudpickle_1662587369221/work
+Keras-Preprocessing @ file:///tmp/build/80754af9/keras-preprocessing_1612283640596/work
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+pandas==2.2.1
+plotly @ file:///home/conda/feedstock_root/build_artifacts/plotly_1708020413888/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+python-utils==3.3.3
+numpy==1.26.4
+pyecharts @ file:///home/conda/feedstock_root/build_artifacts/pyecharts_1709458048544/work
